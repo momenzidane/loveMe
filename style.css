@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    justify-content: center;
+    display: flex;
+   
+}
+.contener{
+    height: 300px;
+    width: 400px;
+    border: 3px white solid;
+    margin-top: 20vh;
+}
+h1{
+    text-align: center;
+    color: red;
+    margin-top: 60px;
+    
+}
+button{
+    background-color: black;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 15px;
+    border: black;
+    align-items: center;
+    margin-top: 30px;
+}
+.b1{
+    margin-left: 140px;
+}
+.b2{
+    /* margin-left: 20px; */
+    position: absolute;
+    background-color: red;
+}
